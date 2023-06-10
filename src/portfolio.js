@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page 
 const greeting = {
-  title: "Arun Murugesan",
+  title: "ARUN MURUGESAN",
   logo_name: "Arun Murugesan",
   nickname: "An aspiring MERN Stack Developer",
   subTitle:[
